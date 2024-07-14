@@ -5,3 +5,4 @@ if x=="yes":
     print("will eat cake")
 else:
     print("Back to work")
+    print("Go to Play")
